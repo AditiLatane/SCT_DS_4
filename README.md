@@ -15,4 +15,5 @@ Steps followed :
    7. Distribution of Accidents by Lighting Conditions
    8. Accident Trends Over Time
    9. Visualize accident hotspots using folium maps
+       
 3.Key findings and patterns
