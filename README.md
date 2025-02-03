@@ -2,6 +2,8 @@ Aim
 
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 
+Dataset source : https://data.gov.uk/dataset/road-traffic-accidents
+
 Steps followed : 
 
 1. Import and clean data
@@ -18,5 +20,4 @@ Steps followed :
        
 3.Key findings and patterns
 
-Dataset source :
-https://data.gov.uk/dataset/road-traffic-accidents
+Task 1 Link : https://github.com/AditiLatane/SCT_DS_1.git
